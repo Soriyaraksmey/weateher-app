@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/weateher-app/static/css/main.71235b97.chunk.css",
+    "main.js": "/weateher-app/static/js/main.ebd48f10.chunk.js",
+    "main.js.map": "/weateher-app/static/js/main.ebd48f10.chunk.js.map",
+    "runtime-main.js": "/weateher-app/static/js/runtime-main.e361ce23.js",
+    "runtime-main.js.map": "/weateher-app/static/js/runtime-main.e361ce23.js.map",
+    "static/js/2.69a16f7f.chunk.js": "/weateher-app/static/js/2.69a16f7f.chunk.js",
+    "static/js/2.69a16f7f.chunk.js.map": "/weateher-app/static/js/2.69a16f7f.chunk.js.map",
+    "index.html": "/weateher-app/index.html",
+    "precache-manifest.eca523da3450d8b1f16e8e3e60e4d7b9.js": "/weateher-app/precache-manifest.eca523da3450d8b1f16e8e3e60e4d7b9.js",
+    "service-worker.js": "/weateher-app/service-worker.js",
+    "static/css/main.71235b97.chunk.css.map": "/weateher-app/static/css/main.71235b97.chunk.css.map",
+    "static/js/2.69a16f7f.chunk.js.LICENSE.txt": "/weateher-app/static/js/2.69a16f7f.chunk.js.LICENSE.txt",
+    "static/media/myedit.mp4": "/weateher-app/static/media/myedit.74e44b8d.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e361ce23.js",
+    "static/js/2.69a16f7f.chunk.js",
+    "static/css/main.71235b97.chunk.css",
+    "static/js/main.ebd48f10.chunk.js"
+  ]
+}
