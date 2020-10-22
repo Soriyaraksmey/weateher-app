@@ -1,0 +1,58 @@
+.content {
+  position: absolute;
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  z-index: 2;
+}
+
+.card {
+  font-family: "Lemonada", cursive;
+  width: 350px;
+  height: 350px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  background: rgb(206, 206, 206);
+  opacity: 0.7;
+  border-radius: 3px;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+.location {
+  width: 350px;
+  height: 20%;
+  background: rgb(255, 255, 255);
+  opacity: 1;
+}
+.city {
+  font-size: 1.5rem;
+  color: rgb(0, 0, 0);
+}
+.date {
+  font-size: 0.7rem;
+  color: rgb(0, 0, 0);
+}
+.current {
+  width: 350px;
+  height: 80%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.temp {
+  font-size: 4.5rem;
+  color: rgb(0, 37, 78);
+  font-weight: 300;
+}
+.weather-wind {
+  width: 350px;
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 20px;
+}
